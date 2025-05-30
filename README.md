@@ -77,6 +77,24 @@ Designed as a practical learning environment for IT Helpdesk and Cybersecurity f
 ---
 
 ## Screenshots
+> The Wazuh dashboard showing that the Ubuntu and Windows 10 agents are active.
+
+![ubuntu manager dashboard](https://github.com/user-attachments/assets/16860c93-3456-4f25-8b08-632eb54454f5)
+
+> The Ubuntu and Windows 10 agent list in Wazuh.
+
+![wazuh agents](https://github.com/user-attachments/assets/a7a8f045-e83e-480e-9c4c-bcd94f957d1c)
+
+> Here we have an attempted login failure demonstrated in the Ubuntu agent terminal.
+
+![SSH failed login alert ubuntu agent](https://github.com/user-attachments/assets/54944e92-e0c4-4cf9-a561-d9eff9199094)
+
+> Here is the alert caught in Wazuh.
+
+![user login failed](https://github.com/user-attachments/assets/592e48a4-2287-44d1-80c9-197b6fe88c07)
+
+
+
 
 
 
